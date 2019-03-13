@@ -1,0 +1,8 @@
+{
+	"name": "Article",
+	"title":"Article组件",
+	"version": "1.0.0",
+	"description":"Article组件",
+	"author": "charten",
+	"dependencies": {}
+}
