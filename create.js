@@ -17,7 +17,7 @@ fs.readdir(__dirname, function(err, files){
 				}
 			}
 		})
-		fs.writeFile('./config.json', JSON.stringify(data), { 'flag': 'a' }, function(err) {
+		fs.writeFile('./config.json', JSON.stringify(data), function(err) {
 			if(err){
 				console.warn(err)
 			}else{
