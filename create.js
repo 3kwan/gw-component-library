@@ -5,7 +5,7 @@ fs.readdir(__dirname, function(err, files){
 	if(err){
 		console.warn(err)
 	}else{
-		let data = []
+		let data = {}
 		files.forEach(function(filename){
 			const filedir = path.join(__dirname, filename)
 			const stats = fs.statSync(filedir)
@@ -13,7 +13,7 @@ fs.readdir(__dirname, function(err, files){
 				const configPath = path.join(filedir, 'config.json')
 				if(fs.existsSync(configPath)){
 					let json = fs.readFileSync(configPath, 'utf-8')	
-					data.push(JSON.parse(json))
+					data[filename] = JSON.parse(json)
 				}
 			}
 		})
