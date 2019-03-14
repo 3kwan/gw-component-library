@@ -1,0 +1,13 @@
+{
+	"name": "CSwiper",
+	"title":"CSwiper组件",
+	"version": "1.0.0",
+	"description":"CSwiper组件",
+	"author": "charten",
+	"dependencies": {
+		"Swiper": [
+			"http://ptstatic.3k.com/lib/swiper@4.3.0/swiper.min.css",
+			"http://ptstatic.3k.com/lib/swiper@4.3.0/swiper.min.js"
+		]
+	}
+}
