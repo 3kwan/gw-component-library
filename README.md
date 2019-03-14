@@ -1,6 +1,10 @@
 # 官网构建工具-组件库
 
-#### 一、目录结构
+> Date：2019/03/14
+>
+> Author：Hsuna
+
+### 一、目录结构
 
 ```
 ./
@@ -14,13 +18,13 @@
 
 
 
-#### 二、提交流程
+### 二、提交流程
 
-##### 1. 生成组件包
+#### 1. 生成组件包
 
 通过 [官网构建组件开发工具](http://git.3k.com/web/Tech/gw-component-builder) 打包生成组件包，并复制到该仓库主目录。
 
-##### 2. 使用`update.sh`自动构建提交
+#### 2. 使用`update.sh`自动构建提交
 
 双击`update.sh`文件，自动编译配置文件，并提交代码到线上。
 
@@ -28,7 +32,7 @@
 
 
 
-#### 三、关于api的使用
+### 三、关于api的使用
 
 * config.json：https://raw.githubusercontent.com/3kwan/gw-component-library/master/config.json
 * XXX/app.3kar：https://raw.githubusercontent.com/3kwan/gw-component-library/master/XXX/app.3kar
