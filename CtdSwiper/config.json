@@ -1,0 +1,15 @@
+{
+	"name": "CtdSwiper",
+	"title":"CtdSwiper组件",
+	"version": "1.0.0",
+	"description":"CtdSwiper组件",
+	"author": "charten",
+	"dependencies": {
+		"Swiper": [
+			"https://cdn.bootcss.com/Swiper/2.7.6/idangerous.swiper.min.js",
+			"http://wzzg.kkk5.com/src/js/lib/swipe/idangerous.swiper.3dflow.js",
+			"https://cdn.bootcss.com/Swiper/2.7.6/idangerous.swiper.min.css",
+			"http://wzzg.kkk5.com/src/js/lib/swipe/idangerous.swiper.3dflow.css"
+		]
+	}
+}
