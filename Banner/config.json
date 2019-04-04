@@ -5,6 +5,6 @@
 	"description":"Banner组件",
 	"author": "charten",
 	"dependencies": {},
-	"owns": ["index"],
+	"owns": [],
 	"unique": false
 }
