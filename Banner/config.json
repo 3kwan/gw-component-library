@@ -1,8 +1,10 @@
 {
 	"name": "Banner",
 	"title":"Banner组件",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description":"Banner组件",
 	"author": "charten",
-	"dependencies": {}
+	"dependencies": {},
+	"owns": ["index"],
+	"unique": false
 }

@@ -1,7 +1,7 @@
 {
 	"name": "CSwiper",
 	"title":"CSwiper组件",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description":"CSwiper组件",
 	"author": "charten",
 	"dependencies": {
@@ -9,5 +9,7 @@
 			"https://cdn.bootcss.com/Swiper/2.7.6/idangerous.swiper.min.css",
 			"https://cdn.bootcss.com/Swiper/2.7.6/idangerous.swiper.min.js"
 		]
-	}
+	},
+	"owns": [],
+	"unique": false
 }

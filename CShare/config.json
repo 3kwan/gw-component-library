@@ -1,10 +1,12 @@
 {
 	"name": "CShare",
 	"title": "CShare组件",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "CShare组件",
 	"author": "charten",
 	"dependencies": {
 		"QRCode": ["http://static.runoob.com/assets/qrcode/qrcode.min.js"]
-	}
+	},
+	"owns": [],
+	"unique": false
 }
