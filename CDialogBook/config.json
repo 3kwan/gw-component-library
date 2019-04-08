@@ -5,6 +5,5 @@
 	"description":"预约弹窗",
 	"author": "charten",
 	"dependencies": {
-		"bookInject": ["src/CDialogBook/bookInject.js"]
 	}
 }

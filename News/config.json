@@ -1,7 +1,7 @@
 {
 	"name": "News",
 	"title":"News组件",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description":"News组件",
 	"author": "charten",
 	"dependencies": {},
