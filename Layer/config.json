@@ -1,8 +1,8 @@
 {
-	"name": "QRCode",
-	"title":"二维码组件",
+	"name": "Layer",
+	"title":"层",
 	"version": "1.0.3",
-	"description":"二维码组件",
+	"description":"层",
 	"author": "charten",
 	"dependencies": {},
 	"owns": [],

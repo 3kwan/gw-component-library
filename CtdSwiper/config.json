@@ -1,7 +1,7 @@
 {
 	"name": "CtdSwiper",
 	"title":"CtdSwiper组件",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description":"CtdSwiper组件",
 	"author": "charten",
 	"dependencies": {

@@ -1,0 +1,10 @@
+{
+	"name": "DemoCmpt",
+	"title":"DemoCmpt组件",
+	"version": "1.0.0",
+	"description":"DemoCmpt组件",
+	"author": "charten",
+	"dependencies": {},
+	"owns": [],
+	"unique": false
+}
