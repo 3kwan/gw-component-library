@@ -1,7 +1,7 @@
 {
 	"name": "CDialogBook",
 	"title":"预约弹窗",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description":"预约弹窗",
 	"author": "charten",
 	"dependencies": {

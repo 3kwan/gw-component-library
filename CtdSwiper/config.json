@@ -1,8 +1,8 @@
 {
 	"name": "CtdSwiper",
 	"title":"CtdSwiper组件",
-	"version": "1.0.3",
-	"description":"CtdSwiper组件",
+	"version": "1.0.4",
+	"description":"3d轮播组件",
 	"author": "charten",
 	"dependencies": {
 		"Swiper": [

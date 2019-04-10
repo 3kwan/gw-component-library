@@ -1,8 +1,8 @@
 {
 	"name": "CNews",
 	"title":"CNews组件",
-	"version": "1.0.4",
-	"description":"CNews组件",
+	"version": "1.0.5",
+	"description":"首页新闻",
 	"author": "charten",
 	"dependencies": {},
 	"owns": ["index"],

@@ -1,8 +1,8 @@
 {
 	"name": "Article",
 	"title":"Article组件",
-	"version": "1.0.2",
-	"description":"Article组件",
+	"version": "1.0.3",
+	"description":"文章详情",
 	"author": "charten",
 	"dependencies": {},
 	"owns": ["detail"],
