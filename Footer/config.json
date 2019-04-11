@@ -1,8 +1,8 @@
 {
 	"name": "Footer",
-	"title":"Footer组件",
-	"version": "1.0.3",
-	"description":"页面底部",
+	"title":"底部",
+	"version": "1.0.4",
+	"description":"底部组件",
 	"author": "charten",
 	"dependencies": {},
 	"owns": [],

@@ -1,10 +1,10 @@
 {
 	"name": "News",
-	"title":"News组件",
-	"version": "1.0.4",
-	"description":"新闻列表",
+	"title":"新闻列表",
+	"version": "1.0.5",
+	"description":"新闻列表组件",
 	"author": "charten",
 	"dependencies": {},
-	"owns": ["list"],
+	"owns": ["type"],
 	"unique": true
 }

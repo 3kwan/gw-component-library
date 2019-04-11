@@ -1,8 +1,8 @@
 {
 	"name": "CSwiper",
-	"title":"CSwiper组件",
-	"version": "1.0.5",
-	"description":"轮播组件",
+	"title":"轮播图",
+	"version": "1.0.6",
+	"description":"轮播图组件",
 	"author": "charten",
 	"dependencies": {
 		"Swiper": [

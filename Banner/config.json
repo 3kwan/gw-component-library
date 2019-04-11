@@ -1,8 +1,8 @@
 {
 	"name": "Banner",
-	"title":"Banner组件",
-	"version": "1.0.3",
-	"description":"头图组件",
+	"title": "头图",
+	"version": "1.0.4",
+	"description": "头图组件",
 	"author": "charten",
 	"dependencies": {},
 	"owns": [],

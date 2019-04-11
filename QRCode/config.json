@@ -1,7 +1,7 @@
 {
 	"name": "QRCode",
-	"title":"二维码组件",
-	"version": "1.0.3",
+	"title":"二维码",
+	"version": "1.0.4",
 	"description":"二维码组件",
 	"author": "charten",
 	"dependencies": {},

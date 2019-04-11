@@ -1,7 +1,7 @@
 {
 	"name": "CVideo",
-	"title":"CVideo组件",
-	"version": "1.0.6",
+	"title":"视频",
+	"version": "1.0.7",
 	"description":"视频组件",
 	"author": "charten",
 	"dependencies": {},

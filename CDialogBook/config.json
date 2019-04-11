@@ -1,13 +1,15 @@
 {
 	"name": "CDialogBook",
-	"title":"预约弹窗",
+	"title": "预约弹窗",
 	"version": "1.0.4",
-	"description":"预约弹窗",
+	"description": "预约弹窗组件",
 	"author": "charten",
 	"dependencies": {
 		"Toast": [
 			"http://smjh.kkk5.com/src/css/app/toast.css",
 			"http://smjh.kkk5.com/src/js/lib/toast.js"
 		]
-	}
+	},
+	"owns": [],
+	"unique": false
 }

@@ -1,8 +1,8 @@
 {
 	"name": "CMenu",
 	"title":"特色菜单",
-	"version": "1.0.1",
-	"description":"特色菜单",
+	"version": "1.0.2",
+	"description":"特色菜单组件",
 	"author": "charten",
 	"dependencies": {},
 	"owns": ["index"],

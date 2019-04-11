@@ -1,8 +1,10 @@
 {
 	"name": "CBook",
-	"title":"预约按钮",
-	"version": "1.0.2",
-	"description":"预约按钮",
+	"title": "预约按钮",
+	"version": "1.0.3",
+	"description": "预约按钮组件",
 	"author": "charten",
-	"dependencies": {}
+	"dependencies": {},
+	"owns": [],
+	"unique": false
 }

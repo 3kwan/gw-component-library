@@ -1,8 +1,8 @@
 {
 	"name": "Header",
-	"title":"风色世界Header",
-	"version": "1.0.5",
-	"description":"风色世界顶部导航",
+	"title":"顶部导航",
+	"version": "1.0.6",
+	"description":"顶部导航组件",
 	"author": "charten",
 	"dependencies": {},
 	"owns": [],
