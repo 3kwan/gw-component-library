@@ -1,7 +1,7 @@
 {
 	"name": "Header",
 	"title":"顶部导航",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"description":"顶部导航组件",
 	"author": "charten",
 	"dependencies": {},
