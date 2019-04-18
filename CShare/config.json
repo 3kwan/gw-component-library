@@ -1,7 +1,7 @@
 {
 	"name": "CShare",
 	"title": "底部分享",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "底部分享组件",
 	"author": "charten",
 	"dependencies": {
